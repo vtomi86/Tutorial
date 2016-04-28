@@ -13,3 +13,5 @@ document.write("Hello " + who);
 
 // Change background color to their favorite color
 document.bgColor = favcolor;
+//Web modification
+
