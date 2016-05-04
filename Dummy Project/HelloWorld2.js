@@ -1,4 +1,4 @@
-﻿// Hello in Javascript
+// Hello in Javascript
 // display prompt box that ask for name and 
 // store result in a variable called who
 var who = window.prompt("What is your name");
@@ -13,4 +13,5 @@ document.write("Hello " + who);
 
 // Change background color to their favorite color
 document.bgColor = favcolor;
+//Web modification
 
